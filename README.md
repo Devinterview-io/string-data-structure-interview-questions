@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Strings questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Strings Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/strings.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698606878&Signature=iAomvEGKZn5OPp0LYpHvGIGTbQQHZnHsru9t6PiNU2zzWbGde0wytIzvQl4XMVsDTyt8Surx9jceAZxvir6Z6Xw54vzv1YROaFw5yWsjLoaeAR6%2Fj2%2BWFPChwQNK5bAEkxAnxw7AM0JbBJ571vRIuh0jE5CxXmgM7XFx5kCyhODWRCssyZT7ZYLdctxJ0zrkLiVe969%2FNbf40mbhdgJVT%2B7pmiARQ8zu8wZUtbHmMV9P08daJNTh7OecJeykILD%2B2quJ6gjwbUnAe5AI9%2F7kVVC%2BIlm9R81QJZMMpGHy3J%2BGBmk%2Bb%2FjP7tXCwZEgj6zCXgUwoKsaS6TebnG7H1NYbQ%3D%3D)
+![Strings Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2Fstrings.png?alt=media&token=dd81dcac-a844-4067-b02e-73792ea92df0&_gl=1*aaplyw*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA2NzAwLjYwLjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Strings](https://devinterview.io/data/strings-interview-questions)
 
